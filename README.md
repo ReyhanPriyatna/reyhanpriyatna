@@ -2,7 +2,7 @@
 <!--
 **ReyhanPriyatna/reyhanpriyatna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C4CC&lines=Welcom+to+My+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C4CC&lines=Welcome+to+My+Github)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=ReyhanPriyatna)  
 
