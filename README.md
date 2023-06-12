@@ -46,5 +46,6 @@
 
 
 ## My Github Stats! 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyhanPriyatna)](https://github.com/ReyhanPriyatna/github-readme-stats)
 
 [![Reyhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReyhanPriyatna&show_icons=true&theme=react)](https://github.com/ReyhanPriyatna/github-readme-stats)
