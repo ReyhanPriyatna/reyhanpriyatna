@@ -12,7 +12,6 @@
 - 🚀 I’m interested in Data Science and Machine Learning
 
 ## Connect Me On
-<br>	
 <a target="_blank" href="https://www.linkedin.com/in/reyhan-agus-priyatna/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://www.instagram.com/reyhan_priyatna/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
