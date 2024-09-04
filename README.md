@@ -7,9 +7,10 @@
 ![](https://komarev.com/ghpvc/?username=ReyhanPriyatna)  
 
 ## About Me
-- 🎓 I'm currently studying Software Engineering at Universitas Pendidikan Indonesia
-- :school_satchel: Currently participating in the Bangkit Academy 2023 By Google, GoTo, and Traveloka (Machine Learning Path)
-- 🚀 I’m interested in Data Science and Machine Learning
+- 🎓 Graduated in Software Engineering from Universitas Pendidikan Indonesia
+- 🎓 Participated in Bangkit Academy 2023 by Google, GoTo, and Traveloka (Machine Learning Path)
+- 💼 Former Business Intelligence Intern at PT Vidio Dot Com (August - December 2023)
+- 🚀 Interested in Data Science and Machine Learning
 
 ## Connect Me On
 <a target="_blank" href="https://www.linkedin.com/in/reyhan-agus-priyatna/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -23,10 +24,6 @@
 ### Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Library 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-%234DC730.svg?style=for-the-badge&logo=Tensorflow&logoColor=white)
@@ -39,9 +36,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)  
+![Metabase](https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=metabase&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 ## My Github Stats! 
